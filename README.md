@@ -8,7 +8,7 @@
 
 ## How to install
 
-  - Clone the repo `git clone https://github.com/nations/spoticord.git`
+  - Clone the repo `git clone https://github.com/BigBotNetwork/spoticord-BigBotNetwork-edit`
   - Install the modules `npm i` or `yarn`
   - Open Discord & Spotify
   - Start the RPC app `node app.js`
