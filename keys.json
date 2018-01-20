@@ -1,0 +1,9 @@
+{
+  "appClientID": "398875456817856522",
+  "imageKeys": {
+    "large": "logo",
+    "small": "play",
+    "smallPaused": "pause"
+  },
+  "rpcTransportType": "ipc"
+}
